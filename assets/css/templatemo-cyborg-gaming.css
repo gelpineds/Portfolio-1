@@ -773,7 +773,7 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url("/Users/meing/OneDrive/Documents/schoolworks/WTP/Portfolio 1/monotierback2basic/assets/images/banner-bg.jpg");
+  background-image: url("../monotierback2basic/assets/images/banner-bg.jpg");
   background-position: center center;
   background-size: cover;
   min-height: 380px;
